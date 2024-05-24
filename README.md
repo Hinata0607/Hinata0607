@@ -11,7 +11,8 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,flask,materialui,tailwind" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,flask,materialui,tailwind,redux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,flask,materialui,tailwind,redux" /> <br /><br />
 
 ## DB and Dev Tools etc
 
