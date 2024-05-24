@@ -1,6 +1,8 @@
 # About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hinata0607&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Hinata0607&show_icons=true&locale=en&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hinata0607&theme=default)
 
 ## Programming Languages
 
