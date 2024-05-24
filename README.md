@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![commit graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hinata0607&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hinata0607&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Programming Languages
