@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hinata0607&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hinata0607&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hinata0607&theme=default)
-![](https://github-readme-stats.vercel.app/api?username=Hinata0607&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=Hinata0607&show_icons=true&theme=merko)
 
 ## Programming Languages
 
