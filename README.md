@@ -2,6 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hinata0607)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Programming Languages
 
