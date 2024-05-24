@@ -3,9 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent">
-  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=Hinata0607&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,cpp" /> <br /><br />
