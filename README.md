@@ -4,7 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hinata0607&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hinata0607&theme=default)
 ![](https://github-readme-stats.vercel.app/api?username=Hinata0607&show_icons=true&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hinata0607&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 
