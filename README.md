@@ -1,5 +1,6 @@
 # About Me
 
+![](https://komarev.com/ghpvc/?username=Hinata0607)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hinata0607&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
