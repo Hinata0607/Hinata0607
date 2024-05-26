@@ -1,7 +1,6 @@
 # About Me
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![commit graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hinata0607&theme=tokyonight)
 
 ## Programming Languages
