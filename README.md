@@ -16,7 +16,7 @@
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,mongodb,npm,postman,figma,stackoverflow,vscode" /> <br /><br />
-<img src="https://skillicons.dev/icons?i=supabase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=supabase,vercel" /> <br /><br />
 
 <!--
 **Hinata0607/Hinata0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
