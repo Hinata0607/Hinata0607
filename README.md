@@ -1,9 +1,6 @@
 # About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinata0607&theme=tokyonight&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hinata0607&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![commit graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hinata0607&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hinata0607&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Programming Languages
 
