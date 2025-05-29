@@ -7,7 +7,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,cpp,ruby" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,rust,python,c,cpp,ruby" /> <br /><br />
 
 ## Frameworks and Library
 
